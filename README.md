@@ -1,0 +1,2 @@
+# Interview_preparation_for_Data_Science_Gen_AI_Developer
+Interview preparation for data science and AI developer
